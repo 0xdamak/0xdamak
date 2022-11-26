@@ -17,6 +17,15 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Damilola</h1>
 <h3 align="center">A creative frontend developer from Lagos, Nigeria</h3>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/damak-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/__damak">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damakdev" alt="damakdev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
