@@ -1,19 +1,3 @@
-<!--
-**damiCodes/damiCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damakdev)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <h1 align="center">Hi 👋, I'm Damilola</h1>
 <h3 align="center">A creative frontend developer from Lagos, Nigeria</h3>
 
@@ -35,7 +19,7 @@ Here are some ideas to get you started:
 I am a Javascript junky passionate about building great ideas and projects. My superpower is building delightful user interfaces with vanilla CSS.
 Most of my time as a developer is spent on building projects, learning new things everyday or just listening to whatever spotify throws my way.
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damakdev)](https://github.com/anuraghazra/github-readme-stats)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8u9bvvwczea143pv9nzu9nf2o)
 
 
