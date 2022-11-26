@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 </div>
 
 <div id="spotify" align="center">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8u9bvvwczea143pv9nzu9nf2o)
 </div>
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8u9bvvwczea143pv9nzu9nf2o)
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damakdev" alt="damakdev" /></a> </p>
