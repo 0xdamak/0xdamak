@@ -18,22 +18,17 @@ Here are some ideas to get you started:
 <h3 align="center">A creative frontend developer from Lagos, Nigeria</h3>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/damak-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/__damak">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+ 
 </div>
 
 ## About Me
 
 <p align="left">
-  <a href="https://www.twitter.com/victorekea" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/victorekea?logo=twitter&style=for-the-badge&color=0077B5&labelColor=000000">
+   <a href="https://www.linkedin.com/in/damak-dev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/victorekeawa">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://twitter.com/__damak" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </p>
 
