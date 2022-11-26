@@ -20,9 +20,9 @@ I am a Javascript junky passionate about building great ideas and projects. My s
 Most of my time as a developer is spent on building projects, learning new things everyday or just listening to whatever spotify throws my way.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damakdev)](https://github.com/anuraghazra/github-readme-stats)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8u9bvvwczea143pv9nzu9nf2o)
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8u9bvvwczea143pv9nzu9nf2o) -->
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damakdev" alt="damakdev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damakdev" alt="damakdev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -38,4 +38,4 @@ Most of my time as a developer is spent on building projects, learning new thing
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damakdev&show_icons=true&locale=en" alt="damakdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damakdev&" alt="damakdev" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damakdev&" alt="damakdev" /></p>
