@@ -26,9 +26,22 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<div id="spotify" align="center">
-</div>
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8u9bvvwczea143pv9nzu9nf2o)
+## About Me
+
+<p align="left">
+  <a href="https://www.twitter.com/victorekea" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/victorekea?logo=twitter&style=for-the-badge&color=0077B5&labelColor=000000">
+  </a>
+  <a href="https://www.linkedin.com/in/victorekeawa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+I am a Javascript junky passionate about building great ideas and projects. My superpower is building delightful user interfaces with vanilla CSS.
+Most of my time as a developer is spent on building projects, learning new things everyday or just listening to whatever spotify throws my way.
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8u9bvvwczea143pv9nzu9nf2o)
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damakdev" alt="damakdev" /></a> </p>
