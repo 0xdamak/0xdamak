@@ -1,3 +1,6 @@
+<p align="center">
+   <img src="https://media4.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47xvj34tvm8oko4fbnpzvjnibpi1pvq5ud9fnaxuw5&rid=giphy.gif&ct=g"/>
+<p>
 <h1 align="center">Hi! I'm Damilola😎</h1>
 <h3 align="center">Creative frontend developer</h3>
 
@@ -155,9 +158,9 @@ Most of my time as a developer is spent on building projects, learning new thing
 </table>
 
 
-<p align="center">
+<!-- <p align="center">
    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<p>
+<p> -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damakdev&show_icons=true&locale=en&layout=compact" alt="damakdev" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damakdev&show_icons=true&locale=en" alt="damakdev" /></p> -->
