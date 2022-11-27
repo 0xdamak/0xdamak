@@ -17,7 +17,7 @@ Most of my time as a developer is spent on building projects, learning new thing
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8u9bvvwczea143pv9nzu9nf2o) -->
 
 ## Languages and Tools
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
