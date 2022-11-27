@@ -155,6 +155,9 @@ Most of my time as a developer is spent on building projects, learning new thing
 </table>
 
 
+<p align="center">
+   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damakdev&show_icons=true&locale=en&layout=compact" alt="damakdev" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damakdev&show_icons=true&locale=en" alt="damakdev" /></p> -->
