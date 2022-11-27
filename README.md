@@ -14,10 +14,6 @@ I am a Javascript junky passionate about building great ideas and projects. My s
 Most of my time as a developer is spent on building projects, learning new things everyday or just listening to whatever spotify throws my way.
 <br />
 
-
-<div align="center">
-   
-</div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damakdev)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8u9bvvwczea143pv9nzu9nf2o) -->
 
