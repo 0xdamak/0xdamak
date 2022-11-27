@@ -10,8 +10,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </p>
-I am a Javascript junky passionate about building great ideas and projects. My superpower is building delightful user interfaces with vanilla CSS.
-Most of my time as a developer is spent on building projects, learning new things everyday or just listening to whatever spotify throws my way.
+<p>I am a Javascript junky passionate about building great ideas and projects. My superpower is building delightful user interfaces with vanilla CSS.
+Most of my time as a developer is spent on building projects, learning new things everyday or just listening to whatever spotify throws my way.</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damakdev)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8u9bvvwczea143pv9nzu9nf2o) -->
