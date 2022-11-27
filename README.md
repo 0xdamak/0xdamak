@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://media4.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47xvj34tvm8oko4fbnpzvjnibpi1pvq5ud9fnaxuw5&rid=giphy.gif&ct=g"/>
+   <img src="https://media4.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47xvj34tvm8oko4fbnpzvjnibpi1pvq5ud9fnaxuw5&rid=giphy.gif&ct=g" width="150px"/>
 <p>
 <h1 align="center">Hi! I'm Damilola😎</h1>
 <h3 align="center">Creative frontend developer</h3>
