@@ -14,7 +14,7 @@
 Most of my time as a developer is spent on building projects, learning new things everyday or just listening to whatever spotify throws my way.</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damakdev)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=8u9bvvwczea143pv9nzu9nf2o&count=3" />
+<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=8u9bvvwczea143pv9nzu9nf2o&count=3" /> -->
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8u9bvvwczea143pv9nzu9nf2o) -->
 
 ## Languages and Tools
