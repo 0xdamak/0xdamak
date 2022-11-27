@@ -151,7 +151,7 @@ Most of my time as a developer is spent on building projects, learning new thing
         />
       </a>
     </td>
-    <td align="center">
+<!--     <td align="center">
       <a href="https://jestjs.io" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
@@ -240,7 +240,7 @@ Most of my time as a developer is spent on building projects, learning new thing
           height="40"
         />
       </a>
-    </td>
+    </td> -->
   </tr>
 </table>
 
