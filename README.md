@@ -90,92 +90,22 @@ Most of my time as a developer is spent on building projects, learning new thing
     </td>
   </tr>
 
-  <tr>
+   <tr>
     <td align="center">
-      <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
-          alt="electron"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+          alt="react"
           width="40"
           height="40"
         />
       </a>
     </td>
     <td align="center">
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+      <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-          alt="express"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-          alt="firebase"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"
-          alt="gatsby"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-          alt="git"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://graphql.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-          alt="graphql"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-<!--     <td align="center">
-      <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-          alt="jest"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-          alt="linux"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-          alt="mongodb"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+          alt="vuejs"
           width="40"
           height="40"
         />
@@ -192,16 +122,6 @@ Most of my time as a developer is spent on building projects, learning new thing
       </a>
     </td>
     <td align="center">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-          alt="nodejs"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-    <td align="center">
       <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
@@ -212,35 +132,25 @@ Most of my time as a developer is spent on building projects, learning new thing
       </a>
     </td>
     <td align="center">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-          alt="react"
+          src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"
+          alt="gatsby"
           width="40"
           height="40"
         />
       </a>
     </td>
     <td align="center">
-      <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+      <a href="https://jestjs.io" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-          alt="redux"
+          src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+          alt="jest"
           width="40"
           height="40"
         />
       </a>
     </td>
-    <td align="center">
-      <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-          alt="vuejs"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td> -->
   </tr>
 </table>
 
