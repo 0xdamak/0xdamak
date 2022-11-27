@@ -12,17 +12,12 @@
 </p>
 I am a Javascript junky passionate about building great ideas and projects. My superpower is building delightful user interfaces with vanilla CSS.
 Most of my time as a developer is spent on building projects, learning new things everyday or just listening to whatever spotify throws my way.
-<br />
 
-<p align="center">
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damakdev)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damakdev)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8u9bvvwczea143pv9nzu9nf2o) -->
 
 ## Languages and Tools
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
