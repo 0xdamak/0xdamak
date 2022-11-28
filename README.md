@@ -1,9 +1,9 @@
 <p align="center">
    <img src="https://media0.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e47zdkt5yqo76cvo6kt7eg2s31sgrzgd82g47tsccws&rid=giphy.gif&ct=g" width="150px"/>
 <p>
-<h1 align="center">Hi! I'm Damilola😎</h1>
+<h1 align="center">Hi! I'm Damilola</h1>
 <h3 align="center">
-   Creative frontend developer
+   <i>Creative frontend developer</i>
 </h3>
 
 ## About Me
