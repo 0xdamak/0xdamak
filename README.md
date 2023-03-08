@@ -15,8 +15,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </p>
-<p>I am a Javascript junky passionate about building great ideas and projects. My superpower is building delightful user interfaces with vanilla CSS.
-Most of my time as a developer is spent on building projects, learning new things everyday or just listening to whatever spotify throws my way.</p>
+<p>I am a Javascript junky passionate about building intuitive and engaging user interfaces. I have a strong foundation in HTML, CSS, and JavaScript (obviously) and I am always eager to learn and explore new technologies that can enhance the user experience. My superpower is building delightful user interfaces with vanilla CSS.
+Most of my time as a developer is spent on building projects, exploring new tools, and reading about design and development best practices while listening to whatever spotify throws my way.</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damakdev)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=8u9bvvwczea143pv9nzu9nf2o&count=3" /> -->
