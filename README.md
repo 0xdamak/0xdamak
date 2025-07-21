@@ -35,7 +35,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 ```javascript
 const damak = {
