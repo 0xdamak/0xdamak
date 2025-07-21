@@ -11,9 +11,6 @@
    <a href="https://www.linkedin.com/in/damak-dev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/0xdamak" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </p>
 <p>I am a Javascript junky passionate about building intuitive and engaging user interfaces. I have a strong foundation in HTML, CSS, and JavaScript (obviously) and I am always eager to learn and explore new technologies that can enhance the user experience. My superpower is building delightful user interfaces with vanilla CSS.
 Most of my time as a developer is spent on building projects, exploring new tools, and reading about design and development best practices while listening to whatever spotify throws my way.</p>
