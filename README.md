@@ -1,167 +1,118 @@
-<p align="center">
-   <img src="https://media0.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e47zdkt5yqo76cvo6kt7eg2s31sgrzgd82g47tsccws&rid=giphy.gif&ct=g" width="150px"/>
-<p>
-<h1 align="center">Hi! I'm Damak</h1>
+<div align="center">
+  
+<!-- Header with animated GIF -->
+<img src="https://media0.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e47zdkt5yqo76cvo6kt7eg2s31sgrzgd82g47tsccws&rid=giphy.gif&ct=g" width="200px"/>
+
+<!-- Typing animation for name -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2E9BF7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi!+I'm+Damak+%F0%9F%91%8B;Creative+Frontend+Developer" alt="Typing SVG" />
+</h1>
+
+<!-- Subtitle with gradient -->
 <h3 align="center">
-   <i>Creative frontend developer</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=6B73FF&center=true&vCenter=true&width=500&height=50&lines=Building+delightful+user+experiences;JavaScript+enthusiast;Always+learning+new+technologies" alt="Typing SVG" />
 </h3>
 
-## About Me
-<p align="left">
-   <a href="https://www.linkedin.com/in/damak-dev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<!-- Social badges with animations -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/damak-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&logoWidth=30" alt="LinkedIn"/>
   </a>
-</p>
-<p>I am a Javascript junky passionate about building intuitive and engaging user interfaces. I have a strong foundation in HTML, CSS, and JavaScript (obviously) and I am always eager to learn and explore new technologies that can enhance the user experience. My superpower is building delightful user interfaces with vanilla CSS.
-Most of my time as a developer is spent on building projects, exploring new tools, and reading about design and development best practices while listening to whatever spotify throws my way.</p>
+  <a href="https://github.com/0xdamak" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub"/>
+  </a>
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xdamak)](https://github.com/anuraghazra/github-readme-stats)
-<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=8u9bvvwczea143pv9nzu9nf2o&count=3" /> -->
-<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8u9bvvwczea143pv9nzu9nf2o) -->
+<br />
 
-## Languages and Tools
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-          alt="html5"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-          alt="css3"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-          alt="sass"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-          alt="bootstrap"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="javascript"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a
-        href="https://www.typescriptlang.org/"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-          alt="typescript"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-  </tr>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-   <tr>
-    <td align="center">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-          alt="react"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-          alt="vuejs"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-          alt="nextjs"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
-          alt="nuxtjs"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"
-          alt="gatsby"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-          alt="jest"
-          width="40"
-          height="40"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+</div>
 
+## 🚀 About Me
 
-<!-- <p align="center">
-   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<p> -->
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damakdev&show_icons=true&locale=en&layout=compact" alt="damakdev" /></p> -->
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damakdev&show_icons=true&locale=en" alt="damakdev" /></p> -->
+```javascript
+const damak = {
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python"],
+  askMeAbout: ["web dev", "tech", "app dev", "UI/UX"],
+  technologies: {
+    frontend: ["React", "Vue.js", "Next.js", "Nuxt.js"],
+    styling: ["CSS3", "Sass", "Tailwind CSS", "Bootstrap"],
+    tools: ["Jest", "Webpack", "Vite", "Git"],
+    databases: ["MongoDB", "PostgreSQL", "Firebase"],
+  },
+  currentFocus: "Building intuitive user interfaces",
+  funFact: "I debug with console.log and I'm proud of it! 🤪"
+};
+```
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damakdev&" alt="damakdev" /></p> -->
+<br clear="both" />
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xdamak&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xdamak&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xdamak&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+### Frontend Development
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs" />
+</div>
+
+### Styling & Design
+<div>
+  <img src="https://skillicons.dev/icons?i=sass,tailwind,bootstrap,figma" />
+</div>
+
+### Tools & Others
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,vite,jest,nodejs,firebase" />
+</div>
+
+</div>
+
+## 🎯 Current Goals
+
+- 🔭 Working on **innovative web applications**
+- 🌱 Learning **advanced React patterns** and **Web3 technologies**
+- 👯 Looking to collaborate on **open source projects**
+- 💬 Ask me about **JavaScript, React, or frontend development**
+- ⚡ Fun fact: **I can spend hours perfecting a single CSS animation**
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xdamak&bg_color=1a1b27&color=628fdb&line=628fdb&point=19f9d8&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0xdamak&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xdamak&style=for-the-badge&color=blue" alt="Profile Views" />
+  
+  **Thanks for visiting! Let's connect and build something amazing together! 🚀**
+</div>
