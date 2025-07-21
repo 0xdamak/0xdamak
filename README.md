@@ -5,21 +5,24 @@
 
 <!-- Typing animation for name -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2E9BF7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi!+I'm+Damak+%F0%9F%91%8B;Creative+Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2E9BF7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi!+I'm+Damak+%F0%9F%91%8B;" alt="Typing SVG" />
 </h1>
 
 <!-- Subtitle with gradient -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=6B73FF&center=true&vCenter=true&width=500&height=50&lines=Building+delightful+user+experiences;JavaScript+enthusiast;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=6B73FF&center=true&vCenter=true&width=600&height=50&lines=Creative+Frontend+Developer;Building+delightful+user+experiences;JavaScript+enthusiast;Always+learning+new+technologies" alt="Typing SVG" />
 </h3>
 
 <!-- Social badges with animations -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/damak-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/0xdamak" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&logoWidth=30" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/0xdamak" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/damakdev" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
 
@@ -54,8 +57,7 @@ const damak = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xdamak&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xdamak&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=0xdamak&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
 </div>
 
 <div align="center">
