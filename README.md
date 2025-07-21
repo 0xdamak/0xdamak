@@ -36,7 +36,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img alt="Coding" width="60%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </div>
 
 <br />
