@@ -48,7 +48,7 @@ const damak = {
   technologies: {
     frontend: ["React", "Angular", "Vue.js", "Next.js", "Nuxt.js"],
     styling: ["CSS3", "Sass", "Tailwind CSS", "Bootstrap"],
-    tools: ["Jest", "Webpack", "Vite", "Git"],
+    tools: ["Jest", "Webpack", "Turbopack", "Vite", "Git"],
     databases: ["MongoDB", "PostgreSQL", "Firebase"],
   },
   currentFocus: "Building intuitive user interfaces",
